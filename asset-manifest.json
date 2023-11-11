@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swiss-transport-app/static/css/main.36cda510.css",
+    "main.js": "/swiss-transport-app/static/js/main.42a2b1b3.js",
+    "static/js/787.8dbe7215.chunk.js": "/swiss-transport-app/static/js/787.8dbe7215.chunk.js",
+    "index.html": "/swiss-transport-app/index.html",
+    "main.36cda510.css.map": "/swiss-transport-app/static/css/main.36cda510.css.map",
+    "main.42a2b1b3.js.map": "/swiss-transport-app/static/js/main.42a2b1b3.js.map",
+    "787.8dbe7215.chunk.js.map": "/swiss-transport-app/static/js/787.8dbe7215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36cda510.css",
+    "static/js/main.42a2b1b3.js"
+  ]
+}
